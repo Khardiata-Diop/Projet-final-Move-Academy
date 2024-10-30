@@ -1,0 +1,58 @@
+/*GENERALITES*/
+body{
+    width:1200px;
+    margin:auto;
+    box-sizing:border-box;
+}
+h2{
+    color:#b878b5;
+}
+h1,
+h3,
+h4{
+   color:#7e4a7c;
+}
+/*HEADER*/
+.header{
+    text-align: center;
+}
+/* MENU*/
+nav{
+     background-color:#7e4a7c;
+}
+nav li{
+    display: inline-block;
+    color:#FFF;
+   
+}
+/*ABOUT*/
+.about{
+    display:flex;
+}
+.more{
+    background-color:#7e4a7c;
+    color:white;
+    width:4em;
+    padding:1em;
+    margin:1em;
+}
+.image-groupe{
+    float:left;
+    margin-right:1em;
+}
+/*TABLEAU*/
+table{
+    border:#7e4a7c solid 1px;
+    border-collapse:collapse;
+}
+td,
+th{
+    border:#7e4a7c solid 1px;
+    padding:1em;
+}
+/*FORMULAIRE*/
+
+/*FOOTER*/
+footer{
+    text-align: center;
+}
